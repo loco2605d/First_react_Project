@@ -1,0 +1,4 @@
+@import "tailwindcss";
+#right::-webkit-scrollbar{  /*shift+mouse scroll */
+    display: none;
+}
